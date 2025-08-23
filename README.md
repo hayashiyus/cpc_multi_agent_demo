@@ -1,4 +1,4 @@
-# README — CPC‑MS に基づく Multi‑Agent Orchestration Demo（Jupyter Notebook 解説）
+# CPC‑MS に基づく Multi‑Agent Orchestration Demo（Jupyter Notebook 解説）
 
 **想定読者**：生成モデルや深層学習の数理に詳しくない方。ただし、確率・統計や機械学習の基本語彙（確率、尤度、相互情報量、回帰など）は登場します。
 **目的**：Notebook が何をしているか、式は最小限で丁寧に説明します。数式の由来は Collective Predictive Coding（CPC）と CPC‑MS（Science モデル）にあります。理論的背景は 図と式を本文中に参照します（ページ番号つき）。
